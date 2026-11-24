@@ -135,6 +135,8 @@ Kleine ~Geheimnisse~ Tipps, damit der Kuchen gelingt.
 
 1\. Advent: Dann backt Oma diesen Kuchen jedes Jahr.
 
+@tipp(Lauwarm mit einem Klecks Sahne servieren.)
+
 ### Der Teig
 
 @tipp(Butter und Eier rechtzeitig aus dem Kühlschrank nehmen.)
