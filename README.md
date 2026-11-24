@@ -2,7 +2,7 @@
 
 Die fertigen Kurse zur Videoreihe „LiaScript – Das komplette Tutorial“: Zu jedem Video gibt es hier den Stand von **Omas Apfelkuchen** nach dem Video – zum Vergleichen, zum Weiterbauen oder als Einstieg mittendrin.
 
-Ein Kurs öffnet sich im Browser über den Link „ansehen“; im [LiveEditor](https://liascript.github.io/LiveEditor/) holst du den aktuellen Stand mit „Neuer Kurs → GitHub-Repository“ und der Adresse  (Zweig ).
+Ein Kurs öffnet sich im Browser über den Link „ansehen“; im [LiveEditor](https://liascript.github.io/LiveEditor/) holst du den aktuellen Stand mit „Neuer Kurs → GitHub-Repository“ und der Adresse `LiaScript/A-Complete-Tutorial#de` (Zweig `de`).
 
 | Video | Titel | Kurs |
 |---:|---|---|
