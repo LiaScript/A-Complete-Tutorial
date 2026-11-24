@@ -2,7 +2,7 @@
 
 Die fertigen Kurse zur Videoreihe „LiaScript – Das komplette Tutorial“: Zu jedem Video gibt es hier den Stand von **Omas Apfelkuchen** nach dem Video – zum Vergleichen, zum Weiterbauen oder als Einstieg mittendrin.
 
-Ein Kurs öffnet sich im Browser über den Link „ansehen“; im [LiveEditor](https://liascript.github.io/LiveEditor/) holst du ihn mit „Neuer Kurs → GitHub-Repository“ und wählst den Ordner des Videos aus.
+Ein Kurs öffnet sich im Browser über den Link „ansehen“; im [LiveEditor](https://liascript.github.io/LiveEditor/) holst du den aktuellen Stand mit „Neuer Kurs → GitHub-Repository“ und der Adresse  (Zweig ).
 
 | Video | Titel | Kurs |
 |---:|---|---|
@@ -39,6 +39,7 @@ Ein Kurs öffnet sich im Browser über den Link „ansehen“; im [LiveEditor](h
 | 31 | Eigene Makros schreiben | [ansehen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/A-Complete-Tutorial/main/DE/31-eigene-makros-schreiben/README.md) · [Ordner](DE/31-eigene-makros-schreiben) |
 | 32 | Makros mit Parametern und Skripten | [ansehen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/A-Complete-Tutorial/main/DE/32-makros-mit-parametern-und-skripten/README.md) · [Ordner](DE/32-makros-mit-parametern-und-skripten) |
 | 33 | Ein eigenes Template bauen | [ansehen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/A-Complete-Tutorial/main/DE/33-ein-eigenes-template-bauen/README.md) · [Ordner](DE/33-ein-eigenes-template-bauen) |
+| 34 | Von GitHub holen und Änderungen abholen | [ansehen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/A-Complete-Tutorial/main/DE/34-von-github-holen-und-aenderungen/README.md) · [Ordner](DE/34-von-github-holen-und-aenderungen) |
 
 Ab Video 33 gibt es zusätzlich das Template **Omas Makros** (Ordner von Video 33).
 
